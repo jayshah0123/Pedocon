@@ -34,7 +34,68 @@ dependencies {
 
     implementation 'com.jakewharton:butterknife:10.2.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'de.hdodenhof:circleimageview:3.0.1'
+    implementation 'com.google.android.material:material:1.2.0-alpha03'
+    implementation 'com.jakewharton:butterknife:10.2.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+    implementation 'com.intuit.ssp:ssp-android:1.0.6'
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    //noinspection GradleCompatible
+    implementation 'com.android.support:viewpager:28.0.0'
+    implementation 'com.agrawalsuneet.androidlibs:dotsloader:1.4'
+
 
     //noinspection GradleCompatible
     implementation 'com.android.support:design:25.0.0'
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+}
+dependencies {
+    //noinspection GradleCompatible
+    compile 'com.android.support:design:25.0.0'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:+'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:+'
+    implementation 'androidx.constraintlayout:constraintlayout:+'
 }

@@ -10,9 +10,17 @@
 
     <style name="PendoconTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/mainColor</item>
-        <item name="colorPrimaryDark">@color/mainColorDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/LightGreen</item>
+        <item name="colorPrimaryDark">@color/LightGreen</item>
+        <item name="colorAccent">@color/LightGreen</item>
     </style>
+    <style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
 
+    <style name="Tab_View_ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/mainColorDark</item>
+        <item name="colorAccent">@color/mainColor</item>
+
+    </style>
 </resources>
